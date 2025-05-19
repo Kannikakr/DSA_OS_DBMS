@@ -26,4 +26,4 @@ class Solution {
   };
 
 // TC = O(k*n)
-// SC = O(1)
+// SC = O()
